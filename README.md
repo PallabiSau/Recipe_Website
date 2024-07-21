@@ -2,6 +2,4 @@
 This is my first Git Repository.
 <br>
 Author - Pallabi Sau
-Link=>
-<br>
-https://deliciousrecipes24.netlify.app/
+Link=>https://deliciousrecipes24.netlify.app/
